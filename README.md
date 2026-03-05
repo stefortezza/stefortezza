@@ -1,14 +1,9 @@
 # 👋 Ciao! Sono Stefano Fortezza
 🚀 Full Stack Developer 
-
 ## 📌 Info & Contatti
 GitHub | Email | LinkedIn | CV
-
 📱 +39 338 2857105
 📍 Italia  
-
----
-
 ## 🏢 Esperienze & Attività Professionali
 
 🧑‍💻 Full Stack Developer — Progetto Fidelity Card  
