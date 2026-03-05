@@ -1,8 +1,6 @@
 # 👋 Ciao! Sono Stefano Fortezza
 🚀 Full Stack Developer 
 
----
-
 ## 📌 Info & Contatti
 GitHub | Email | LinkedIn | CV
 
