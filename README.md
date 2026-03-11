@@ -19,7 +19,8 @@ Sviluppo completo di una piattaforma web per la gestione di fidelity card digita
 • Gestione sicurezza con Spring Security  
 • Database MySQL  
 
-Progetto strutturato come applicazione reale pronta per il deployment.
+Progetto strutturato come applicazione reale realizzando il deployment sul seguente dominio:
+www.happycash.it
 
 ---
 
